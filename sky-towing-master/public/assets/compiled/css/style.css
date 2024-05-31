@@ -1,0 +1,9 @@
+
+:root {
+    --first-color: #FFFBF2;
+    --sec-color: #FFAA00;
+}
+
+.sidebar-wrapper .menu .sidebar-item.active>.sidebar-link{
+    background-color: var(--sec-color) !important;
+}
